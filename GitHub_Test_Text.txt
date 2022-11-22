@@ -1,5 +1,2 @@
 Hello everyone. This txt document is in the repo.
 How to use GitHub demo.
-
-
-This are the new changes made
